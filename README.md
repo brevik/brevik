@@ -24,32 +24,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brevik&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-##  🤝🏻 &nbsp;Connect with Me
-<p align="center">
-<a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/brevik"><img src="https://img.brevik.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:brevik_3@yahoo.com.br"><img src="https://img.shields.io/badge/-brevik_3@yahoo.combr-D14836?style=flat-square&logo=yahoo&logoColor=white"/></a>
-<!--
-**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
-
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
-
-(Use dark theme to find my socials ;)
-
-<a href="https://www.linkedin.com/in/brevik-rafael-1a7b3028/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
-<a href="https://www.instagram.com/brevikrfs/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-  
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-
-<br />
-<br />
-<br />
 
 ### Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
