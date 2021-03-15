@@ -25,7 +25,7 @@
   
 ### Softwares:
 
-<a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img align="left" alt="XD" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-NPxTKSYHlcsKOOzB_EvTHkYsMM9J4jDBQ&usqp=CAU"/> </a> 
+- POWER BI &nbsp; <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img align="left" alt="XD" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-NPxTKSYHlcsKOOzB_EvTHkYsMM9J4jDBQ&usqp=CAU"/> </a> 
 
 <br />
 <br />
