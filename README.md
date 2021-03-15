@@ -1,6 +1,6 @@
 
 
-## Sou Brevik Rafael
+## Brevik Rafael
 ### 💻 &nbsp;Sobre mim
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software para os problemas de tecnologia do nosso mundo
 - 🎓 &nbsp; Bacharel em Engenharia de Computação
@@ -22,6 +22,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.adobe.com/pro
 
+<br />
+<br />
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
@@ -35,6 +37,9 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+<br />
+<br />
 
 ## My Stats
 <p>
