@@ -4,7 +4,7 @@
 
 ### Sobre mim:
  
- Sou engenheiro de computação tendento a cientista de dados. A atuação com investimentos no mercado de ações e a costante análise de dados e gráficos me fez despertar curiosidade e no momento estou me aperfeiçoando cada vez mais em ciências de dados.
+ Engenheiro de computação tendento a cientista de dados. A atuação com investimentos no mercado de ações e a costante análise de dados e gráficos me fez despertar curiosidade e no momento estou me aperfeiçoando cada vez mais em ciências de dados.
 
 
 ### Connect with me:
@@ -18,11 +18,11 @@
 
 ### Languages and Tools:
 
-- PYTHON &nbsp; <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-- C++ &nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/>
 
-- GIT HUB &nbsp; <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
