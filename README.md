@@ -4,8 +4,9 @@
 
 ### Sobre mim:
  
- Engenheiro de computação tendento a cientista de dados. A atuação com investimentos no mercado de ações e a costante análise de dados e gráficos me fez despertar curiosidade e no momento estou me aperfeiçoando cada vez mais em ciências de dados.
-
+ Engenheiro de computação tendento a cientista de dados e forrozeiro nas horas vagas. 
+ 
+ Estudos sobre os diversos tipos de investimentos financeiros (mercado de ações, renda fixa, criptomoedas, ...) despertou a necessidade de criar ferramentas para gerenciar e acompanhar o desempenho destes, o que despertou o incentivo a explorar a área de ciência de dados. No momento busco novos desafios onde possa aprender, aperfeiçoar técnicas e promover novas soluções.
 
 ### Connect with me:
 
