@@ -4,9 +4,11 @@
 
 ### Sobre mim:
  
- Engenheiro de computação tendento a cientista de dados e forrozeiro nas horas vagas. 
+ Engenheiro de computação tendento a cientista de dados, forrozeiro nas horas vagas 
  
- Estudos sobre os diversos tipos de investimentos financeiros (mercado de ações, renda fixa, criptomoedas, ...) despertou a necessidade de criar ferramentas para gerenciar e acompanhar o desempenho destes, o que despertou o incentivo a explorar a área de ciência de dados. No momento busco novos desafios onde possa aprender, aperfeiçoar técnicas e promover novas soluções.
+ Formado em Engenharia de Computação pela Universidade Federal do Rio Grande do Norte. Atuei em trabalhos voltados a processamento de imagens usando linguagem C++ em sistemas embarcados. Maior parte da carreira voltada para atuações na área de suporte e implantação de sistemas.
+ 
+ No momento venho me interessando cada vez mais pela área de análise e ciência de dados e tenho alguns trabalhos que você poderar conferir aqui mesmo no GitHub. Busco novos desafios onde possa aprender, aperfeiçoar técnicas e promover novas soluções.
 
 ### Connect with me:
 
