@@ -8,9 +8,9 @@
  
  Formado em Engenharia de Computação pela Universidade Federal do Rio Grande do Norte. Atuei em trabalhos voltados a processamento de imagens usando linguagem C++ em sistemas embarcados. Maior parte da carreira voltada para atuações na área de suporte e implantação de sistemas.
  
- No momento venho me interessando cada vez mais pela área de análise e ciência de dados e tenho alguns trabalhos que você pode conferir aqui mesmo no GitHub. Busco novos desafios onde possa aprender, aperfeiçoar técnicas e promover novas soluções.
+ No momento venho estudnando e realizando projetos na área de análise e ciência de dados. Aqui neste github você poderá conferir alguns desses. Contribuições, dicas e sugestões são sempre bem vindas 
 
-### Connect with me:
+### Conecte-se comigo:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/brevik-rafael-1a7b3028/)
 
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Linguagens e ferramentas:
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
