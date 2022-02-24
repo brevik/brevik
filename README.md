@@ -4,7 +4,7 @@
 
 ### Sobre mim:
  
- Engenheiro de computação tendento a cientista de dados, forrozeiro nas horas vagas 
+ Engenheiro de computação tendendo a cientista de dados, forrozeiro nas horas vagas 
  
  Formado em Engenharia de Computação pela Universidade Federal do Rio Grande do Norte. Atuei em trabalhos voltados a processamento de imagens usando linguagem C++ em sistemas embarcados. Maior parte da carreira voltada para atuações na área de suporte e implantação de sistemas.
  
