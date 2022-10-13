@@ -8,7 +8,7 @@
  
  Formado em Engenharia de Computação pela Universidade Federal do Rio Grande do Norte. Atuei em trabalhos voltados a processamento de imagens usando linguagem C++ em sistemas embarcados. Maior parte da carreira voltada para atuações na área de suporte e implantação de sistemas.
  
- No momento venho estudnando e realizando projetos na área de análise e ciência de dados. Aqui neste github você poderá conferir alguns desses. Contribuições, dicas e sugestões são sempre bem vindas 
+ No momento venho estudando e realizando projetos na área de análise e ciência de dados. Aqui neste github você poderá conferir alguns desses. Contribuições, dicas e sugestões são sempre bem vindas 
 
 ### Conecte-se comigo:
 
